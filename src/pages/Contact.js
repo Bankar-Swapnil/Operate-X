@@ -13,10 +13,10 @@ function Contact() {
     <>
       <div className="bgcolor">
         <Navbar />
-        <Box sx={{ display: "flex", backgroundColor: "black", color: "white" }}>
+        <Box sx={{ display: "flex",}}>
           <Sidebar />
           <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
-            <Card sx={{ m: 8, backgroundColor: "#20282E", color: "white" }}>
+            <Card sx={{ m: 8,}}>
               <CardHeader
                 title={"Contact Us"}
                 subheader={

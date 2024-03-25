@@ -176,7 +176,7 @@ const OrdersCalendarView = () => {
                   tileContent={TileContent}
                 />
                 <div className="orders-list-container">
-                  <h3 style={{ color: "white" }}>
+                  <h3>
                     Orders for {date.toDateString()}
                   </h3>
                   <MUIDataTable

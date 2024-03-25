@@ -267,7 +267,7 @@ const OrdersManagement = () => {
   };
 
   return (
-    <div style={{ background: "#11171B", height: "100vh" }}>
+    <div>
       <Navbar />
       <Box height={70} />
       <Box sx={{ display: "flex" }}>

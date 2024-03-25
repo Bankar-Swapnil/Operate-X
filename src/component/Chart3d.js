@@ -12,14 +12,7 @@ export const data = [
 
 export const options = {
   // is3D: true,
-  backgroundColor: "#20282E", // Set background color to black
   colors: ["#a8a8ff", "#5ee1ff", "#66a2de"],
-  legend: {
-    textStyle: { color: "white" }, // Set legend text color to white
-  },
-  titleTextStyle: {
-    color: "white", // Set title text color to white
-  },
 };
 
 export default function Chart3d() {

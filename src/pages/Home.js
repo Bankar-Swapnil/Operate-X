@@ -24,7 +24,7 @@ function Home() {
             <Grid container spacing={2}>
               <Grid item xs={12} md={8}>
                 <Stack spacing={2}>
-                  <Card sx={{ backgroundColor: "#20282E", color: "white" }}>
+                  <Card sx={{}}>
                     <CardContent sx={{ textAlign: "center" }}>
                       <Typography>
                         <span>
@@ -36,7 +36,7 @@ function Home() {
                       </Typography>
                     </CardContent>
                   </Card>
-                  <Card sx={{ backgroundColor: "#20282E", color: "white" }}>
+                  <Card sx={{ }}>
                     <CardContent sx={{ textAlign: "center" }}>
                       <Typography>
                         <span>
@@ -56,8 +56,6 @@ function Home() {
                   <Card
                     sx={{
                       height: "60vh",
-                      backgroundColor: "#20282E",
-                      color: "white",
                     }}
                   >
                     <CardContent>
@@ -68,7 +66,7 @@ function Home() {
               </Grid>
               <Grid item xs={12} md={4}>
                 <Stack spacing={2}>
-                  <Card sx={{ backgroundColor: "#20282E", color: "white" }}>
+                  <Card sx={{ }}>
                     <CardContent sx={{ textAlign: "center" }}>
                       <Typography>
                         <span>
@@ -86,7 +84,7 @@ function Home() {
                       </Typography>
                     </CardContent>
                   </Card>
-                  <Card sx={{ backgroundColor: "#20282E", color: "white" }}>
+                  <Card sx={{}}>
                     <CardContent sx={{ textAlign: "center" }}>
                       <Typography>
                         <span>
@@ -107,8 +105,6 @@ function Home() {
                   <Card
                     sx={{
                       height: "60vh",
-                      backgroundColor: "#20282E",
-                      color: "white",
                     }}
                   >
                     <CardContent>

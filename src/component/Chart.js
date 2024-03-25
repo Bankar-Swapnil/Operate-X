@@ -30,16 +30,6 @@ export default function ChartGeo() {
             subtitle: "Sales, Expenses, and Profit: 2014-2017",
           },
           colors: ["#a8a8ff", "#5ee1ff", "#66a2de"],
-          titleTextStyle: {
-            color: "white",
-          },
-          subtitleTextStyle: {
-            color: "white",
-          },
-          backgroundColor: "#20282E",
-          legend: { textStyle: { color: "white" } }, // Adjust legend text color
-          hAxis: { textStyle: { color: "white" } }, // Adjust horizontal axis text color
-          vAxis: { textStyle: { color: "white" } }, // Adjust vertical axis text color
         }}
       />
     </div>

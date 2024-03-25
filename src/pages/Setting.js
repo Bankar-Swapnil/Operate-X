@@ -12,8 +12,8 @@ function Setting() {
         <Box sx={{ display: "flex" }}>
           <Sidebar />
           <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
-            <h1 style={{ marginTop: "50px", color: "white" }}> Setting </h1>
-            <Typography paragraph style={{ color: "white" }}>
+            <h1 style={{ marginTop: "50px"}}> Setting </h1>
+            <Typography >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
               Rhoncus dolor purus non enim praesent elementum facilisis leo vel.
@@ -28,7 +28,7 @@ function Setting() {
               varius duis at consectetur lorem. Velit sed ullamcorper morbi
               tincidunt. Lorem donec massa sapien faucibus et molestie ac.
             </Typography>
-            <Typography paragraph style={{ color: "white" }}>
+            <Typography paragraph>
               Consequat mauris nunc congue nisi vitae suscipit. Fringilla est
               ullamcorper eget nulla facilisi etiam dignissim diam. Pulvinar
               elementum integer enim neque volutpat ac tincidunt. Ornare
@@ -43,10 +43,10 @@ function Setting() {
               maecenas accumsan lacus vel facilisis. Nulla posuere sollicitudin
               aliquam ultrices sagittis orci a.
             </Typography>
-            <Typography paragraph style={{ color: "white" }}>
+            <Typography paragraph>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam commodi dolorem repellat perspiciatis numquam. Eveniet fugiat ex molestiae facere expedita, quidem nesciunt earum repudiandae excepturi, sed ipsum odit quo vitae. Inventore architecto amet sint obcaecati quam molestiae, explicabo doloribus cupiditate soluta ipsum totam neque repellendus sit ullam, quae incidunt eius repellat rem nobis voluptate ex earum maiores placeat velit. Possimus, unde nulla dolores odit repudiandae recusandae eveniet eum non commodi.
             </Typography>
-            <Typography paragraph style={{ color: "white" }}>
+            <Typography paragraph>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa voluptatibus similique totam maxime iusto dolore nihil aperiam debitis illum voluptas, suscipit asperiores repellendus minima dignissimos nobis placeat. Earum sequi, ab eveniet saepe incidunt sapiente cumque. Fuga, excepturi iusto voluptas qui modi, error sed tenetur natus delectus optio repudiandae tempora ratione obcaecati quia sit minima pariatur, facere odio sequi atque! Explicabo beatae qui ipsam dolores eligendi unde ab velit aperiam quasi minus incidunt voluptatem iure in rerum eveniet, ratione nulla soluta porro consectetur tenetur magni reprehenderit commodi hic neque. Nobis, reprehenderit!
             </Typography>
           </Box>

@@ -234,7 +234,7 @@ const ProductsManagement = () => {
   };
 
   return (
-    <div style={{ background: "#11171B", height: 100 + "vh" }}>
+    <div style={{ height: 100 + "vh" }}>
       <Navbar />
       <Box height={70} />
       <Box sx={{ display: "flex" }}>
