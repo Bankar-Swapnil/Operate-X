@@ -2,7 +2,6 @@ import "./App.css";
 
 import React from "react";
 import { Route, Routes, BrowserRouter } from "react-router-dom";
-import Sidebar from "./component/sidebar";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import Setting from "./pages/Setting";
